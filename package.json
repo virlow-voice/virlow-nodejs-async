@@ -1,0 +1,31 @@
+{
+  "name": "virlow-nodejs-async",
+  "version": "1.0.1-beta",
+  "description": "Virlow Speech-to-Text API Node.js Package",
+  "main": "index.js",
+  "keywords": [
+    "speech-to-text",
+    "virlow",
+    "conversation",
+    "speech",
+    "voice",
+    "asr",
+    "virlow.com"
+  ],
+  "author": "Virlow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virlow-voice/virlow-nodejs-async/issues"
+  },
+  "homepage": "https://www.virlow.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virlow-voice/virlow-nodejs-async.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
